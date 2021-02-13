@@ -1,0 +1,42 @@
+.outer {
+    width: 1500px;
+    margin: 0 auto;
+  }
+  input {
+    margin: auto;
+    display: block;
+    float:initial;
+  }
+  .gs{
+      float: left;
+      margin-left: 640px;
+  }
+  .ifl{
+      float: right;
+      margin-right: 640px;
+  }
+  p {
+    font-style: normal;
+    font-size: 100px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 150px;
+    padding-bottom: 80px;
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+  
+  .hr1 {
+    color: rgb(0, 119, 255);
+  }
+  
+  .hr2 {
+    color: red;
+  }
+  
+  .hr3 {
+    color: rgb(255, 230, 0);
+  }
+  .hr4 {
+    color: green;
+  }
