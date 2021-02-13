@@ -2,41 +2,34 @@
     width: 1500px;
     margin: 0 auto;
   }
-.options{
+button{
     margin: auto;
     float:initial;
     margin-top: 40px;
-  }
-.is{
     float: right;
     margin-right: 50px;
   }
-.as{
-    float: right;
-    margin-right: 40px;
-  }
-  input {
+
+input {
     margin: auto;
     display: block;
     float:initial;
-  }
-  input[type="text"] {
+}
+input[type="text"] {
     width: 500px;
     height: 30px;
-  }
-  input[type="submit"] {
+}
+input[type="submit"] {
     width: 120px;
     height: 32px;
+ }
+.gs{
+    float: left;
+    margin-left: 700px;
   }
-  .gs{
-      float: left;
-      margin-left: 630px;
-  }
-  .ifl{
-      float: right;
-      margin-right: 630px;
-  }
-  p {
+
+
+p {
     font-style: normal;
     font-size: 100px;
     font-family: Arial, sans-serif;
@@ -45,23 +38,23 @@
     padding-bottom: 80px;
     margin-top: 0;
     margin-bottom: 0;
-  }
+}
   
-  .hr1 {
+.hr1 {
     color: rgb(0, 119, 255);
-  }
-  
-  .hr2 {
+}
+
+.hr2 {
     color: red;
-  }
-  
-  .hr3 {
+}
+
+.hr3 {
     color: rgb(255, 230, 0);
-  }
-  .hr4 {
+}
+.hr4 {
     color: green;
-  }
-  a{
+}
+a{
     text-decoration:none;
     color:black;
   }
